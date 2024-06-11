@@ -61,7 +61,7 @@ nav ul li a {
 
 .search-icon {
     position: absolute;
-    left: 250px;
+    left: 50%;
     top: 50%;
     transform: translateY(-50%);
 }
@@ -721,7 +721,7 @@ footer {
     top: 50%;
     bottom: 50%;
     transform: translateY(-50%);
-    right: 7px;
+    right: 3%;
 }
 
 .contact-input-icon i {
